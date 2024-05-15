@@ -1,0 +1,33 @@
+[ 
+  { 
+    "id" :  1 , 
+    "name" :  "Juan Pablo Ferrarese" , 
+    "desc" :  "Entusiasta de la ciencia de datos", 
+    "image":  "assets/img_01.png"
+  } , 
+  { 
+    "id" :  2 , 
+    "name" :  "Oscar Cantero" , 
+    "desc" :  "Fanatico de River",
+    "image":  "assets/img_04.png"
+  } , 
+  { 
+    "id" :  3 , 
+    "name" :  "Andrea Iglesias" , 
+    "desc" :  "Le encanta la lectura",
+    "image":  "assets/img_03.png"
+  } 
+  , 
+  { 
+    "id" :  4 , 
+    "name" :  "Agustina Ortega" , 
+    "desc" :  "Le fascina la Arquitectura",
+    "image":  "assets/img_02.png"
+  },
+  { 
+    "id" :  4 , 
+    "name" :  "Martín Olivera" , 
+    "desc" :  "Amante de la Música clásica",
+    "image":  "assets/img_05.png"
+  }
+]
